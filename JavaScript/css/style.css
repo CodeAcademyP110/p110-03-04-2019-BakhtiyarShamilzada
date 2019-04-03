@@ -1,0 +1,32 @@
+.form-box
+{
+  background-color: #FAFAFA;
+}
+.tag
+{
+  color: #46799b;
+  background: #e0eaf1;
+  border-radius: 3px;
+  position: relative;
+}
+input
+{
+  box-shadow: none;
+  border: 0px solid white !important;
+  
+}
+input:focus
+{
+  box-shadow: none;
+  border: 0px;
+}
+span
+{
+  font-size: 16px;
+  color: #8ba7ba;
+}
+span:hover
+{
+  color: red;
+  cursor: pointer;
+}
